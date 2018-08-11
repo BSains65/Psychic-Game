@@ -1,0 +1,22 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: black;
+}
+
+header, .wrapper, .navbar-text {
+	text-align: center;
+}
+
+.wrapper {
+	font-size: 35px;
+	font-family: 'Homeade Apple', cursive;
+	padding-bottom: 100px;
+}
+
+.navbar-text, .wrapper {
+	color: lawngreen;
+	margin: auto;
+}
