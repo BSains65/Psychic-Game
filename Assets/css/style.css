@@ -20,3 +20,7 @@ header, .wrapper, .navbar-text {
 	color: lawngreen;
 	margin: auto;
 }
+
+.open {
+	height: 400px;
+}
